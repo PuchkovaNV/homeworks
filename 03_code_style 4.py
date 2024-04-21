@@ -92,11 +92,11 @@ count_of_my_pets = 34
 if count_of_my_pets > 10:
     print('I need more space for my pets!')
 
-my_favorite_pets_and_bird = ['cat', 'wolf', 'ostrich']
-if 'lion' in my_favorite_pets_and_bird:
+pets_and_bird = ['cat', 'wolf', 'ostrich']
+if 'lion' in pets_and_bird:
     print('Wow!')
 
-MyFavoritePetsAndBirds = ['cat', 'wolf', 'ostrich']
+PetsAndBirds = ['cat', 'wolf', 'ostrich']
 # но такой стиль используется для названий классов
 
 
@@ -113,8 +113,8 @@ a = 34
 b = 43
 if a > b:
     print()
-O = 9
-if O > 0:
+с = 9
+if с > 0:
     print()
 
 # lowercase (слово в нижнем регистре)
@@ -132,8 +132,8 @@ if O > 0:
 
 # автоматическое переименование в PyCharm и подсказки - вам не нужно набирать длинные названия переменных
 
-ss = ['cat', 'wolf', 'ostrich']
-if 'lion' in ss:
+animals = ['cat', 'wolf', 'ostrich']
+if 'lion' in animals:
     print('Wow!')
 
 # В каждой уважающей себя компании есть style guide (стайл-гайд) - руководство по стилю написания кода.
